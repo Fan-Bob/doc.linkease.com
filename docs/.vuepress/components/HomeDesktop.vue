@@ -182,6 +182,10 @@
     </div>
 </template>
 
+
+
+
+
 <script>
 import SphereImage from "../public/home/icon_sphere.png"
 import istoreeaselink from "../public/home/istoreeaselink@3x.png"
