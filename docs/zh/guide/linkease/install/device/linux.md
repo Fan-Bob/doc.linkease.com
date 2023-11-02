@@ -73,6 +73,8 @@ waiting configuration, web config link is: http://172.17.0.2:8897
 
 #### 5. 绑定
 
-使用浏览器打开管理页面，如 http://172.17.0.2:8897 （具体链接请以终端提示为准）
+使用浏览器打开管理页面，如 http://172.17.0.2:8897 （具体链接请以终端提示为准）没有提示
+~/linkease-binary-1.2.0$ ./linkease.x86_64 --serviceControl installAndStart
+2023/11/02 21:09:48 Run in daemon result: OK
 
 **7.安装后第一次打开，需要绑定设备，请查看 [易有云绑定教程](/zh/guide/linkease/install/cloud.md)。**
